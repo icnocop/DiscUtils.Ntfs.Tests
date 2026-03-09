@@ -1,0 +1,6 @@
+OpenVirtualDisk
+AttachVirtualDisk
+DetachVirtualDisk
+GetVirtualDiskPhysicalPath
+VIRTUAL_STORAGE_TYPE_DEVICE_UNKNOWN
+VIRTUAL_STORAGE_TYPE_VENDOR_UNKNOWN
